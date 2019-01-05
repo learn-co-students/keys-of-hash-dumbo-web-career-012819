@@ -13,6 +13,3 @@ class Hash
     return keys
   end
 end
-
-# animals = {"bird" => 2, "dog" => 40}
-# print animals.keys_of(40)
